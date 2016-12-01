@@ -1,0 +1,5 @@
+*.tfstate*
+main.tf
+jsconfig.json
+typings.json
+typings

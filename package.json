@@ -1,0 +1,11 @@
+{
+  "name": "beanform",
+  "version": "0.1.0",
+  "description": "Reverse engineer an AWS Elasticbeanstalk app into Terraform source code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [ "terraform", "aws", "elasticbeanstalk", "beanstalk", "eb" ],
+  "license": "Apache2"
+}
